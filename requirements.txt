@@ -8,6 +8,5 @@ Pillow==6.2.1
 gym==0.15.4
 ruamel.base==1.0.0
 sh==1.12.14
-skimage==0.0
 tensorflow==2.0.0
 tensorflow_probability==0.8.0
